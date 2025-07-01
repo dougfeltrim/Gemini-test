@@ -2,6 +2,14 @@
 
 Este projeto simula uma empresa de software, utilizando agentes de inteligência artificial para colaborar no desenvolvimento de projetos completos, gerando código e documentação prontos para o cliente.
 
+# Project: Software Company Using AI Agents
+
+This project simulates a software company where AI agents collaborate to develop complete projects, generating code and documentation ready for the client.
+
+**Selecione o idioma desejado abaixo para visualizar as instruções completas em Português ou Inglês.**  
+
+**Select the desired language below to view the full instructions in Portuguese or English.**
+
 <details>
 <summary><strong>Português (Brasil)</strong></summary>
 
